@@ -1,0 +1,108 @@
+/* Reset and global font */
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+/* First section */
+
+.main-container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+}
+
+.black-container {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+  width: 50%;
+}
+
+.nav-bar nav {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-bar img {
+  height: 32px;
+  width: 32px;
+  padding: 10px;
+}
+
+.nav-bar ul {
+  display: flex;
+  align-items: center;
+}
+
+.nav-bar li {
+  list-style: none;
+  padding: 0 50px;
+}
+
+.mid-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 150px 50px;
+}
+
+.mid-container h1 {
+  margin: 80px 0;
+  font-size: 60px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: auto;
+  font-size: 28px;
+}
+
+.icons-container {
+  padding: 5px 22px;
+}
+
+.icons-container i {
+  margin: 0 10px;
+}
+
+footer p {
+  padding: 0px 20px 35px 0;
+}
+
+/* Second section */
+
+.bedroom-container {
+    width: 50%;
+}
+
+.bedroom-img img {
+  width: 980px;
+  height: 800px;
+}
+
+.bedroom-text-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bedroom-text {
+    padding: 15px 0;
+}
+
+.bedroom-text h4{
+    font-size: 28px;
+}
+
+.bedroom-text p {
+    font-size: 18px;
+}
