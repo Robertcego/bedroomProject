@@ -3,10 +3,12 @@
 Pure CSS layout
 
 To consider:
-X - Responsive layout still not implemented
-X - Need updates with the logo
-X - Year needs to be updated
 
-Designed by @jairo-16
+ - [ ] Responsive layout still not implemented
+ - [ ] Need updates with the logo
+ - [ ] Year needs to be updated
 
-Coded by Robertcego
+
+Designed by @[jairo-16](https://github.com/jairo-16)
+
+Coded by @Robertcego
