@@ -1,3 +1,5 @@
+![Bedroom Project](https://raw.githubusercontent.com/Robertcego/bedroomProject/master/bedroomProject.png)
+
 || Bedroom Project ||
 
 Pure CSS layout
